@@ -95,5 +95,4 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Bruno Sales, Mel Olivia, Rayna Froes, Gabriel Barbosa
 <a href="https://github.com/2026-1-NADS1-A/Projeto3">Magnesio </a> © 2026 by <a href="https://github.com/brunosales-spec">Bruno Sales, Rayna Froes, Gabriel Barbosa, Mel Olivia</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">

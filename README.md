@@ -10,7 +10,7 @@
 ## Nome do Grupo
 Magnesio
 
-## Integrantes: <ras 26028881, 23011348, 26029241, / Bruno Sales</a>, Rayna Froes</a> , Mel Olivia</a>, Gabriel</a>
+## Integrantes: Bruno Sales</a>, Rayna Froes</a> , Mel Olivia</a>, Gabriel</a>
 
 ## Professores Orientadores: Eduardo Savino
 ## Descrição

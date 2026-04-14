@@ -30,11 +30,7 @@ May the force be with you!
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+
 |-->executáveis<br>
   &emsp;|-->windows<br>
   &emsp;|-->android<br>

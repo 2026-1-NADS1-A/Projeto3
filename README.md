@@ -11,12 +11,12 @@ Vide tutoriais do PI.
 </p>
 
 # Nome do Projeto
-
+  Aplicativos Desktop para Gestão de Assinatura de Jogos Educacionais
 ## Nome do Grupo
+   MagnesioEduca
+## Integrantes: Bruno Sales, Rayna Froes, Gabriel Barbosa, Mel Olivia
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
-
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: Eduardo Savino
 
 ## Descrição
 

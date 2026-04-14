@@ -8,7 +8,7 @@
   Magnesio
 
 ## Nome do Grupo
-Magnesio
+ Magnesio
 
 ## Integrantes: Bruno Sales</a>, Rayna Froes</a>, Mel Oliva</a>, Gabriel</a>
 

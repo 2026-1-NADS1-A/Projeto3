@@ -1,7 +1,7 @@
 
 
        
-Mat discreta
+Matematica discreta
 
 
 

@@ -5,14 +5,14 @@ Projeto 3
 <img width="1018" height="556" alt="BD entrega 1 - PI" src="" />
 
 # Algoritmos 
-[Projeto Interdisciplinar - Algoritmos e Lógicas de Programação - Grupo 3.docx]()
+[arquivo colocado]()
 
 # Matemática discreta
-[matematica_discreta_entrega 1 grupo 3.docx]()
+[arquivo colocado]()
 
 # Redes
-[Redes - Entrega 1 PI - Grupo 3.pdf]()
+[arquivo colocado]()
 
 
 # Modelagem de softwarwe
-[Modelagem de Software- entrega 1 =pi.docx]()
+[arquivo colocado]()

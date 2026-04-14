@@ -99,4 +99,5 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
+Bruno Sales, Mel Olivia, Rayna Froes, Gabriel Barbosa
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.

@@ -10,7 +10,7 @@
 ## Nome do Grupo
 Magnesio
 
-## Integrantes: <ra 26028881, 23011348, 26029241, /">Bruno Sales</a>, >Rayna Froes</a> , >Mel Olivia</a>, >Gabriel</a>
+## Integrantes: <ras 26028881, 23011348, 26029241, / Bruno Sales</a>, Rayna Froes</a> , Mel Olivia</a>, Gabriel</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 

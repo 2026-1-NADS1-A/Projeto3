@@ -11,7 +11,7 @@
    MagnesioEduca
 ## Integrantes: Bruno Sales, Gabriel Barbosa, Mel Oliva e Rayna Froes
 
-## Professores Orientadores: Eduardo Savino, Ronaldo Araujo, Renata Muniz, Aimar Martins e Lucy Mari
+## Professores Orientadores: Aimar Lopes, Eduardo Savino, Lucy Mari, Renata Muniz e Ronaldo Araujo
 
 ## Descrição
 

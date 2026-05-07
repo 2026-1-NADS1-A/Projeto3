@@ -9,7 +9,7 @@
   Aplicativos Desktop para Gestão de Assinatura de Jogos Educacionais
 ## Nome do Grupo
    MagnesioEduca
-## Integrantes: Bruno Sales, Rayna Froes, Gabriel Barbosa, Mel Olivia
+## Integrantes: Bruno Sales, Rayna Froes, Gabriel Barbosa, Mel Oliva
 
 ## Professores Orientadores: Eduardo Savino, Ronaldo Araujo, Renata Muniz, Aimar Martins e Lucy Mari
 

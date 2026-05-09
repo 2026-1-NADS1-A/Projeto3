@@ -5,13 +5,13 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Nome do projeto
   Aplicativos Desktop para Gestão de Assinatura de Jogos Educacionais
 ## Nome do Grupo
-   MagnesioEduca
-## Integrantes: Bruno Sales, Rayna Froes, Gabriel Barbosa, Mel Olivia
+   Aprender+
+## Integrantes: Bruno Sales, Gabriel Barbosa, Mel Oliva e Rayna Froes
 
-## Professores Orientadores: Eduardo Savino, Ronaldo Araujo, Renata Muniz, Aimar Martins e Lucy Mari
+## Professores Orientadores: Aimar Lopes, Eduardo Savino, Lucy Mari, Renata Muniz e Ronaldo Araujo
 
 ## Descrição
 

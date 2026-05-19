@@ -1,0 +1,36 @@
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\bin\Debug\net8.0-windows\PrototipoMessier.exe
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\bin\Debug\net8.0-windows\PrototipoMessier.deps.json
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\bin\Debug\net8.0-windows\PrototipoMessier.runtimeconfig.json
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\bin\Debug\net8.0-windows\PrototipoMessier.dll
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\bin\Debug\net8.0-windows\PrototipoMessier.pdb
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.Form1.resources
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.csproj.GenerateResource.cache
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.AssemblyInfoInputs.cache
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.AssemblyInfo.cs
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.csproj.CoreCompileInputs.cache
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.dll
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\refint\PrototipoMessier.dll
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.pdb
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.genruntimeconfig.cache
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\ref\PrototipoMessier.dll
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.JogosForms.resources
+C:\Users\egome\Dropbox\Documentos\__FECAP\__202601\ADS\1ADS - REDES\PROTOTIPO\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.PacoteForms.resources
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.JogosForms.resources
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.Form1.resources
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.PacoteForms.resources
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.csproj.GenerateResource.cache
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.AssemblyInfoInputs.cache
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.AssemblyInfo.cs
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.csproj.CoreCompileInputs.cache
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.dll
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\refint\PrototipoMessier.dll
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.pdb
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\bin\Debug\net8.0-windows\PrototipoMessier.exe
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\bin\Debug\net8.0-windows\PrototipoMessier.deps.json
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\bin\Debug\net8.0-windows\PrototipoMessier.runtimeconfig.json
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\bin\Debug\net8.0-windows\PrototipoMessier.dll
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\bin\Debug\net8.0-windows\PrototipoMessier.pdb
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\PrototipoMessier.genruntimeconfig.cache
+C:\Users\26028881\Desktop\PrototipoMessier\PrototipoMessier\PrototipoMessier\obj\Debug\net8.0-windows\ref\PrototipoMessier.dll

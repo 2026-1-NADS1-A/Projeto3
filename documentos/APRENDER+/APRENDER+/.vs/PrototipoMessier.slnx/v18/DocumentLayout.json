@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\JogosForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:PrototipoMessier\\JogosForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\prototipomessier\\pacoteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:prototipomessier\\pacoteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|c:\\users\\26028881\\desktop\\prototipomessier\\prototipomessier\\prototipomessier\\pacoteforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:prototipomessier\\pacoteforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|c:\\users\\26028881\\desktop\\prototipomessier\\prototipomessier\\prototipomessier\\menuforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:prototipomessier\\menuforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|c:\\users\\26028881\\desktop\\prototipomessier\\prototipomessier\\prototipomessier\\pacoteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:prototipomessier\\pacoteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\26028881\\Desktop\\MenuForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|c:\\users\\26028881\\desktop\\prototipomessier\\prototipomessier\\prototipomessier\\menuforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:prototipomessier\\menuforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|c:\\users\\26028881\\desktop\\prototipomessier\\prototipomessier\\prototipomessier\\jogosforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:prototipomessier\\jogosforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\MenuForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:1:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:PrototipoMessier\\MenuForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|c:\\users\\26028881\\desktop\\prototipomessier\\prototipomessier\\prototipomessier\\jogosforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:prototipomessier\\jogosforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\JogosForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:PrototipoMessier\\JogosForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\MenuForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{18F49376-9E3B-CD2C-99B5-B149BAC51674}|PrototipoMessier\\PrototipoMessier.csproj|solutionrelative:PrototipoMessier\\MenuForms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacoteForms.cs",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\PacoteForms.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\PacoteForms.cs",
+              "ToolTip": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\PacoteForms.cs",
+              "RelativeToolTip": "PrototipoMessier\\PacoteForms.cs",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAswHsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:56:28.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacoteForms.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\PacoteForms.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\PacoteForms.cs",
+              "ToolTip": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\PacoteForms.cs [Projeto]",
+              "RelativeToolTip": "PrototipoMessier\\PacoteForms.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:52:15.201Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JogosForms.cs",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\JogosForms.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\JogosForms.cs",
+              "ToolTip": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\JogosForms.cs",
+              "RelativeToolTip": "PrototipoMessier\\JogosForms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:32:45.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PacoteForms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\PacoteForms.Designer.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\PacoteForms.Designer.cs",
+              "ToolTip": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\PacoteForms.Designer.cs",
+              "RelativeToolTip": "PrototipoMessier\\PacoteForms.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T00:09:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuForms.cs",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\MenuForms.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\MenuForms.cs",
+              "ToolTip": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\MenuForms.cs",
+              "RelativeToolTip": "PrototipoMessier\\MenuForms.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowLQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:27:07.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogosForms.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\JogosForms.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\JogosForms.cs",
+              "ToolTip": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\JogosForms.cs [Projeto]",
+              "RelativeToolTip": "PrototipoMessier\\JogosForms.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T23:52:46.845Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuForms.cs",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\MenuForms.cs",
+              "RelativeDocumentMoniker": "..\\..\\MenuForms.cs",
+              "ToolTip": "C:\\Users\\26028881\\Desktop\\MenuForms.cs",
+              "RelativeToolTip": "..\\..\\MenuForms.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T00:23:39.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuForms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\MenuForms.Designer.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\MenuForms.Designer.cs",
+              "ToolTip": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\MenuForms.Designer.cs",
+              "RelativeToolTip": "PrototipoMessier\\MenuForms.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T00:18:34.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuForms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\MenuForms.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\MenuForms.cs",
+              "ToolTip": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\MenuForms.cs [Design]",
+              "RelativeToolTip": "PrototipoMessier\\MenuForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T19:04:40.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JogosForms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\JogosForms.Designer.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\JogosForms.Designer.cs",
+              "ToolTip": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\JogosForms.Designer.cs",
+              "RelativeToolTip": "PrototipoMessier\\JogosForms.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T23:58:54.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JogosForms.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\JogosForms.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\JogosForms.cs",
+              "ToolTip": "C:\\Users\\egome\\Dropbox\\Documentos\\__FECAP\\__202601\\ADS\\1ADS - REDES\\PROTOTIPO\\PrototipoMessier\\PrototipoMessier\\JogosForms.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\egome\\Dropbox\\Documentos\\__FECAP\\__202601\\ADS\\1ADS - REDES\\PROTOTIPO\\PrototipoMessier\\PrototipoMessier\\JogosForms.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T18:29:09.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuForms.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\26028881\\Desktop\\PrototipoMessier\\PrototipoMessier\\PrototipoMessier\\MenuForms.cs",
+              "RelativeDocumentMoniker": "PrototipoMessier\\MenuForms.cs",
+              "ToolTip": "C:\\Users\\egome\\Dropbox\\Documentos\\__FECAP\\__202601\\ADS\\1ADS - REDES\\PROTOTIPO\\PrototipoMessier\\PrototipoMessier\\MenuForms.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\..\\egome\\Dropbox\\Documentos\\__FECAP\\__202601\\ADS\\1ADS - REDES\\PROTOTIPO\\PrototipoMessier\\PrototipoMessier\\MenuForms.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:15:55.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
